@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "StreamBox V11",
+  "short_name": "StreamBox",
+  "description": "Central de entretenimento IPTV StreamBox.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#080808",
+  "background_color": "#080808",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
